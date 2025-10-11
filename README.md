@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm KingIronMan2011
+
+## 🧑‍🎓 Student | 🎮 Gaming Programmer | 🖥️ Server Enthusiast
+
+- **Tech Stack:** React, Vite, TypeScript
+- **Interests:** Game development, programming, server management
+- **Website:** [info.king-mc.de](https://info.king-mc.de)
+
+---
+
+### ⚡ About Me
+
+I’m passionate about both gaming and programming, and I love working on servers and exploring new technologies, especially with React and TypeScript. Currently, I’m not actively working on a public project, but I’m always learning and experimenting!
+
+---
+
+### 📫 How to reach me
+
+- Visit my website: [info.king-mc.de](https://info.king-mc.de)
+- Connect via GitHub!
+
+---
 
 <!--
-**KingIronMan2011/KingIronMan2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+"nothing" - (no additional info or ongoing public projects for now)
 -->
