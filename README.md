@@ -17,10 +17,6 @@ I’m passionate about both gaming and programming, and I love working on server
 ### 📫 How to reach me
 
 - Visit my website: [info.king-mc.de](https://info.king-mc.de)
-- Connect via GitHub!
+- Connect via Discord! My Username is `kingironman2011`
 
 ---
-
-<!--
-"nothing" - (no additional info or ongoing public projects for now)
--->
