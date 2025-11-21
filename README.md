@@ -19,6 +19,9 @@ I’m passionate about both gaming and programming, and I love working on server
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KingIronMan2011&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=KingIronMan2011&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingIronMan2011&layout=compact&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingIronMan2011&layout=compact&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 ---
 
 ### 📫 How to reach me
