@@ -1,9 +1,9 @@
 # 👋 Hi, I'm KingIronMan2011
 
-## 🧑‍🎓 Student | 🎮 Gaming Programmer | 🖥️ Server Enthusiast
+## 🧑‍🎓 Student | 🎮 Programmer | 🖥️ Server Enthusiast
 
 - **Tech Stack:** React, Vite, TypeScript
-- **Interests:** Game development, programming, server management
+- **Interests:** website development, programming, server management
 - **Website:** [info.king-mc.de](https://info.king-mc.de)
 
 ---
