@@ -39,7 +39,7 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages dark card
+      - name: Generate dark top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
