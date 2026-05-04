@@ -4,7 +4,7 @@
 
 - **Tech Stack:** React, Vite, TypeScript
 - **Interests:** website development, programming, server management
-- **Website:** [info.king-mc.de](https://info.king-mc.de)
+- **Website:** [kingironman.dev](https://kingironman.dev)
 
 ---
 
@@ -26,7 +26,7 @@ I’m passionate about both gaming and programming, and I love working on server
 
 ### 📫 How to reach me
 
-- Visit my website: [info.king-mc.de](https://info.king-mc.de)
+- Visit my website: [kingironman.dev](https://kingironman.dev)
 - Connect via Discord! My Username is `kingironman2011`
 
 ---
