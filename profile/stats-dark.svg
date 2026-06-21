@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Julian Speckmann's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 5321, Total PRs: 94, Total Issues: 30, Contributed to (last year): 35</desc>
+        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 5337, Total PRs: 94, Total Issues: 30, Contributed to (last year): 35</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 125.08281522068492;
+        stroke-dashoffset: 125.08281450885823;
       }
     }
   
