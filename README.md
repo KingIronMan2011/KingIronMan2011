@@ -2,7 +2,7 @@
 
 ## 🧑‍🎓 Student | 🎮 Programmer | 🖥️ Server Enthusiast
 
-- **Tech Stack:** React, Vite, TypeScript
+- **Tech Stack:** React, NextJS, TypeScript, TailwindCSS
 - **Interests:** website development, programming, server management
 - **Website:** [kingironman.dev](https://kingironman.dev)
 
